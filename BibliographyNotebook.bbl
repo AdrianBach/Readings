@@ -1,0 +1,191 @@
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Courchamp et~al.(1999)Courchamp, Langlais, and
+  Sugihara]{courchamp1999cats}
+Franck Courchamp, Michel Langlais, and George Sugihara.
+\newblock Cats protecting birds: modelling the mesopredator release effect.
+\newblock \emph{Journal of Animal Ecology}, 68\penalty0 (2):\penalty0 282--292,
+  1999.
+\newblock \doi{10.1046/j.1365-2656.1999.00285.x}.
+\newblock URL
+  \url{https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2656.1999.00285.x}.
+
+\bibitem[Courchamp et~al.(2003)Courchamp, Woodroffe, and
+  Roemer]{courchamp2003removing}
+Franck Courchamp, Rosie Woodroffe, and Gary Roemer.
+\newblock Removing protected populations to save endangered species.
+\newblock \emph{Science}, 302\penalty0 (5650):\penalty0 1532--1532, 2003.
+\newblock ISSN 0036-8075.
+\newblock \doi{10.1126/science.1089492}.
+\newblock URL \url{https://science.sciencemag.org/content/302/5650/1532}.
+
+\bibitem[Csata et~al.(2020)Csata, Gautrais, Bach, Blanchet, Ferrante, Fournier,
+  L{\'e}vesque, Simpson, and Dussutour]{csata2020ant}
+Enik{\H o} Csata, Jacques Gautrais, Adrian Bach, Jean Blanchet, Jeremy
+  Ferrante, Floriane Fournier, Tina L{\'e}vesque, Stephen~J. Simpson, and
+  Audrey Dussutour.
+\newblock Ant foragers compensate for the nutritional deficiencies in the
+  colony.
+\newblock \emph{Current Biology}, 30\penalty0 (1):\penalty0 135 -- 142.e4,
+  2020.
+\newblock ISSN 0960-9822.
+\newblock \doi{https://doi.org/10.1016/j.cub.2019.11.019}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0960982219314587}.
+
+\bibitem[Cusack et~al.(2020)Cusack, Duthie, Minderman, Jones, Pozo,
+  Rakotonarivo, Redpath, and Bunnefeld]{cusack2020integrating}
+Jeremy~J. Cusack, A.~Bradley Duthie, Jeroen Minderman, Isabel~L. Jones,
+  Roc{\`I}o~A. Pozo, O.~Sarobidy Rakotonarivo, Steve Redpath, and Nils
+  Bunnefeld.
+\newblock Integrating conflict, lobbying, and compliance to predict the
+  sustainability of natural resource use.
+\newblock \emph{Ecology and Society}, 25\penalty0 (2), 2020.
+\newblock \doi{10.5751/ES-11552-250213}.
+\newblock URL \url{https://www.ecologyandsociety.org/vol25/iss2/art13/}.
+
+\bibitem[D{\~A}-az et~al.(2006)D{\~A}-az, Fargione, Chapin, and
+  Tilman]{diaz2006biodiversity}
+Sandra D{\~A}-az, Joseph Fargione, F.~Stuart Chapin, III, and David Tilman.
+\newblock Biodiversity loss threatens human well-being.
+\newblock \emph{PLOS Biology}, 4\penalty0 (8), 08 2006.
+\newblock \doi{10.1371/journal.pbio.0040277}.
+\newblock URL \url{https://doi.org/10.1371/journal.pbio.0040277}.
+
+\bibitem[DeCesare et~al.(2010)DeCesare, Hebblewhite, Robinson, and
+  Musiani]{decesare2010endangered}
+N.~J. DeCesare, M.~Hebblewhite, H.~S. Robinson, and M.~Musiani.
+\newblock Endangered, apparently: the role of apparent competition in
+  endangered species conservation.
+\newblock \emph{Animal Conservation}, 13\penalty0 (4):\penalty0 353--362, 2010.
+\newblock \doi{10.1111/j.1469-1795.2009.00328.x}.
+\newblock URL
+  \url{https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-1795.2009.00328.x}.
+
+\bibitem[Duthie(2020)]{duthie2020component}
+Alexander~B. Duthie.
+\newblock Component response rate variation underlies the stability of highly
+  complex finite systems.
+\newblock \emph{Scientific Reports}, 10\penalty0 (8296), 2020.
+
+\bibitem[Fryxell et~al.(2010)Fryxell, Packer, McCann, Solberg, and
+  S{\ae}ther]{Fryxell2010resource}
+John~M. Fryxell, Craig Packer, Kevin McCann, Erling~J. Solberg, and Bernt-Erik
+  S{\ae}ther.
+\newblock Resource management cycles and the sustainability of harvested
+  wildlife populations.
+\newblock \emph{Science}, 328\penalty0 (5980):\penalty0 903--906, 2010.
+\newblock ISSN 0036-8075.
+\newblock \doi{10.1126/science.1185802}.
+\newblock URL \url{https://science.sciencemag.org/content/328/5980/903}.
+
+\bibitem[Krofel and Jerina(2016)]{KROFEL201640}
+Miha Krofel and Klemen Jerina.
+\newblock Mind the cat: Conservation management of a protected dominant
+  scavenger indirectly affects an endangered apex predator.
+\newblock \emph{Biological Conservation}, 197:\penalty0 40 -- 46, 2016.
+\newblock ISSN 0006-3207.
+\newblock \doi{https://doi.org/10.1016/j.biocon.2016.02.019}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0006320716300635}.
+
+\bibitem[Lehtonen et~al.(2020)Lehtonen, Okasha, and
+  Helanter{\"a}]{lethtonen2020price}
+Jussi Lehtonen, Samir Okasha, and Heikki Helanter{\"a}.
+\newblock Fifty years of the price equation.
+\newblock \emph{Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 375\penalty0 (1797):\penalty0 20190350, 2020.
+\newblock \doi{10.1098/rstb.2019.0350}.
+\newblock URL
+  \url{https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2019.0350}.
+
+\bibitem[Ng'weno et~al.(2019)Ng'weno, Buskirk, Georgiadis, Gituku, Kibungei,
+  Porensky, Rubenstein, and Goheen]{ngweno2019apparent}
+Caroline~C. Ng'weno, Steven~W. Buskirk, Nicholas~J. Georgiadis, Benard~C.
+  Gituku, Alfred~K. Kibungei, Lauren~M. Porensky, Daniel~I. Rubenstein, and
+  Jacob~R. Goheen.
+\newblock Apparent competition, lion predation, and managed livestock grazing:
+  Can conservation value be enhanced?
+\newblock \emph{Frontiers in Ecology and Evolution}, 7:\penalty0 123, 2019.
+\newblock ISSN 2296-701X.
+\newblock \doi{10.3389/fevo.2019.00123}.
+\newblock URL
+  \url{https://www.frontiersin.org/article/10.3389/fevo.2019.00123}.
+
+\bibitem[Pannetier et~al.(2020)Pannetier, Martinez, Bunnefeld, and
+  Etienne]{pannetier2020branching}
+Th{\'e}o Pannetier, C{\'e}sar Martinez, Lynsey Bunnefeld, and Rampal~S.
+  Etienne.
+\newblock Branching patterns in phylogenies cannot distinguish
+  diversity-dependent diversification from timedependent diversification.
+\newblock 2020.
+
+\bibitem[Poissonnier et~al.(2018)Poissonnier, Lihoreau, Gomez-Moracho,
+  Dussutour, and Buhl]{POISSONNIER201878}
+Laure-Anne Poissonnier, Mathieu Lihoreau, Tamara Gomez-Moracho, Audrey
+  Dussutour, and Jerome Buhl.
+\newblock A theoretical exploration of dietary collective medication in social
+  insects.
+\newblock \emph{Journal of Insect Physiology}, 106:\penalty0 78 -- 87, 2018.
+\newblock ISSN 0022-1910.
+\newblock \doi{https://doi.org/10.1016/j.jinsphys.2017.08.005}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0022191017301312}.
+\newblock SI: Nutritional Homeostasis.
+
+\bibitem[Pozo et~al.(2020)Pozo, LeFlore, Duthie, Bunnefeld, Jones, Minderman,
+  Rakotonarivo, and Cusack]{pozo2020multispecies}
+Roc{\'\i}o~A. Pozo, Eric~G. LeFlore, A.~Bradley Duthie, Nils Bunnefeld,
+  Isabel~L. Jones, Jeroen Minderman, O.~Sarobidy Rakotonarivo, and Jeremy~J.
+  Cusack.
+\newblock A multispecies assessment of wildlife impacts on local community
+  livelihoods.
+\newblock \emph{Conservation Biology}, n/a\penalty0 (n/a), 2020.
+\newblock \doi{10.1111/cobi.13565}.
+\newblock URL
+  \url{https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13565}.
+
+\bibitem[Roemer et~al.(2002)Roemer, Donlan, and Courchamp]{roemer2002eagle}
+Gary~W. Roemer, C.~Josh Donlan, and Franck Courchamp.
+\newblock Golden eagles, feral pigs, and insular carnivores: How exotic species
+  turn native predators into prey.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 99\penalty0
+  (2):\penalty0 791--796, 2002.
+\newblock ISSN 0027-8424.
+\newblock \doi{10.1073/pnas.012422499}.
+\newblock URL \url{https://www.pnas.org/content/99/2/791}.
+
+\bibitem[Simberloff(2003)]{simberloff2003information}
+Daniel Simberloff.
+\newblock How much information on population biology is needed to manage
+  introduced species?
+\newblock \emph{Conservation Biology}, 17\penalty0 (1):\penalty0 83--92, 2003.
+\newblock \doi{10.1046/j.1523-1739.2003.02028.x}.
+\newblock URL
+  \url{https://conbio.onlinelibrary.wiley.com/doi/abs/10.1046/j.1523-1739.2003.02028.x}.
+
+\bibitem[WITTMER et~al.(2013)WITTMER, SERROUYA, ELBROCH, and
+  MARSHALL]{wittmer2012conservation}
+HEIKO~U. WITTMER, ROBERT SERROUYA, L.~MARK ELBROCH, and ANDREW~J. MARSHALL.
+\newblock Conservation strategies for species affected by apparent competition.
+\newblock \emph{Conservation Biology}, 27\penalty0 (2):\penalty0 254--260,
+  2013.
+\newblock \doi{10.1111/cobi.12005}.
+\newblock URL
+  \url{https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.12005}.
+
+\bibitem[Wu et~al.(2020)Wu, Dodd, Hauser, and McCarthy]{wu2020reallocating}
+Chung-Huey Wu, Aaron~J. Dodd, Cindy~E. Hauser, and Michael~A. McCarthy.
+\newblock Reallocating budgets among ongoing and emerging conservation
+  projects.
+\newblock \emph{Conservation Biology}, 2020.
+\newblock \doi{10.1111/cobi.13585}.
+\newblock URL
+  \url{https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13585}.
+
+\end{thebibliography}
