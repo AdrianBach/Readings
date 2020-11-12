@@ -4,12 +4,12 @@ The top-level auxiliary file: BibliographyNotebook.aux
 The style file: plainnat.bst
 Database file #1: PhD-allReadings.bib.bib
 Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "frixell2010resource"
-Warning--I didn't find a database entry for "endangered2010decesare"
+Warning--I didn't find a database entry for "Frixell2010resource"
+Warning--I didn't find a database entry for "holt1977predation"
 Warning--empty note in pannetier2020branching
 You've used 18 entries,
             2773 wiz_defined-function locations,
-            750 strings with 10553 characters,
+            751 strings with 10567 characters,
 and the built_in function-call counts, 10253 in all, are:
 = -- 922
 > -- 761

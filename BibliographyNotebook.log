@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.22)  5 NOV 2020 16:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.22)  12 NOV 2020 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -473,15 +473,15 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=483.69687pt
-* \textheight=731.23584pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -502,195 +502,206 @@ e
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (12.01164pt too wide) in paragraph at lines 36--36
+[]\OT1/cmr/bx/n/12 Resource Man-age-ment Cy-cles and the Sus-tain-abil-ity of H
+ar-vested Wildlife
+ []
 
-Package natbib Warning: Citation `frixell2010resource' on page 2 undefined on i
+
+Package natbib Warning: Citation `Frixell2010resource' on page 2 undefined on i
 nput line 38.
 
-[2] [3] [4] [5] [6] [7] [8]
+[2]
+Overfull \hbox (2.7283pt too wide) in paragraph at lines 55--55
+[]\OT1/cmr/bx/n/12 Reallocating bud-gets among on-go-ing and emerg-ing con-ser-
+va-tion projects 
+ []
 
-Package natbib Warning: Citation `endangered2010decesare' on page 9 undefined o
-n input line 165.
+[3] [4] [5]
 
-[9] [10] [11] [12]
-LaTeX Font Info:    Try loading font information for U+msa on input line 253.
+Package natbib Warning: Citation `holt1977predation' on page 6 undefined on inp
+ut line 113.
+
+[6] [7] [8] [9] [10] [11] [12] [13] [14]
+LaTeX Font Info:    Try loading font information for U+msa on input line 283.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 253.
+LaTeX Font Info:    Try loading font information for U+msb on input line 283.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [13] [14]
-Overfull \hbox (6.16394pt too wide) in paragraph at lines 300--301
-[]\OT1/cmr/bx/n/12 Keywords\OT1/cmr/m/n/12 : Agent-based mod-elling, col-lec-ti
-ve im-mune re-sponse, so-cial diet change, pathogen
- []
-
-[15] [16] [17] (./BibliographyNotebook.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 10--17
-[]\OT1/cmr/m/n/12 Franck Cour-champ, Michel Langlais, and George Sug-i-hara.  C
-ats pro-tect-
+) [15]
+Overfull \hbox (8.19081pt too wide) in paragraph at lines 294--294
+[]\OT1/cmr/bx/n/12 Branching pat-terns in phy-lo-ge-nies can-not dis-tin-guish 
+diversity-dependent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--17
-\OT1/cmr/m/n/12 ing birds: mod-elling the meso-preda-tor re-lease ef-fect.  \OT
-1/cmr/m/it/12 Jour-nal of An-i-mal
+Overfull \hbox (0.48982pt too wide) in paragraph at lines 304--305
+[]\OT1/cmr/bx/n/12 Keywords\OT1/cmr/m/n/12 : Lin-eage di-ver-si-fi-ca-tion, max
+-i-mum like-li-hood, model se-lec-tion, time
  []
 
-
-Underfull \hbox (badness 7851) in paragraph at lines 10--17
-\OT1/cmr/m/it/12 Ecol-ogy\OT1/cmr/m/n/12 , 68(2):282--292, 1999.  doi: 10.1046/
-j.1365-2656.1999.00285.x.  URL
- []
-
-
-Overfull \hbox (50.01712pt too wide) in paragraph at lines 10--17
+[16] [17] [18] [19] (./BibliographyNotebook.bbl
+Overfull \hbox (115.46031pt too wide) in paragraph at lines 10--17
 \OT1/cmtt/m/n/12 https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1046/j.
 1365-2656.1999.00285.x\OT1/cmr/m/n/12 . 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--26
+Underfull \hbox (badness 1082) in paragraph at lines 20--26
 []\OT1/cmr/m/n/12 Franck Cour-champ, Rosie Woodroffe, and Gary Roe-mer.  Re-mov
 -ing pro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--26
-\OT1/cmr/m/n/12 tected pop-u-la-tions to save en-dan-gered species.  \OT1/cmr/m
-/it/12 Sci-ence\OT1/cmr/m/n/12 , 302(5650):1532--
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--26
+Underfull \hbox (badness 2245) in paragraph at lines 20--26
 \OT1/cmr/m/n/12 1532, 2003.  ISSN 0036-8075.  doi: 10.1126/sci-ence.1089492.  U
 RL
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 43--51
-\OT1/cmr/m/n/12 Pozo, O. Saro-bidy Rako-tonar-ivo, Steve Red-path, and Nils Bun
--nefeld.  In-te-grat-
+Underfull \hbox (badness 5548) in paragraph at lines 29--40
+\OT1/cmr/m/n/12 rante, Flo-ri-ane Fournier, Tina L^^Sevesque, Stephen J. Simp-s
+on, and
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 43--51
-\OT1/cmr/m/n/12 ing con-flict, lob-by-ing, and com-pli-ance to pre-dict the sus
--tain-abil-ity of nat-u-ral re-
+Underfull \hbox (badness 2856) in paragraph at lines 29--40
+\OT1/cmr/m/n/12 Au-drey Dus-su-tour.  Ant for-agers com-pen-sate for the nu-tri
+-tional de-
  []
 
 
-Overfull \hbox (74.71713pt too wide) in paragraph at lines 62--69
+Underfull \hbox (badness 2753) in paragraph at lines 29--40
+\OT1/cmr/m/n/12 fi-cien-cies in the colony.  \OT1/cmr/m/it/12 Cur-rent Bi-ol-og
+y\OT1/cmr/m/n/12 , 30(1):135 -- 142.e4, 2020.
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 29--40
+\OT1/cmr/m/n/12 ISSN 0960-9822.  doi: https://doi.org/10.1016/j.cub.2019.11.019
+.  URL
+ []
+
+
+Overfull \hbox (4.31026pt too wide) in paragraph at lines 29--40
+\OT1/cmtt/m/n/12 http://www.sciencedirect.com/science/article/pii/S096098221931
+4587\OT1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 54--59
+[]\OT1/cmr/m/n/12 Sandra D[]A-az, Joseph Far-gione, F. Stu-art Chapin, III, and
+ David
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 54--59
+\OT1/cmr/m/n/12 Tilman.  Bio-di-ver-sity loss threat-ens hu-man well-being.  \O
+T1/cmr/m/it/12 PLOS Bi-
+ []
+
+
+Underfull \hbox (badness 6493) in paragraph at lines 54--59
+\OT1/cmr/m/it/12 ol-ogy\OT1/cmr/m/n/12 , 4(8), 08 2006.  doi: 10.1371/jour-nal.
+pbio.0040277.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
+[]\OT1/cmr/m/n/12 N. J. DeCe-sare, M. Heb-ble-white, H. S. Robin-son, and M. Mu
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
+\OT1/cmr/m/n/12 siani.  En-dan-gered, ap-par-ently: the role of ap-par-ent com-
+pe-ti-
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 62--69
+\OT1/cmr/m/n/12 tion in en-dan-gered species con-ser-va-tion.  \OT1/cmr/m/it/12
+ An-i-mal Con-ser-va-tion\OT1/cmr/m/n/12 , 13
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
+\OT1/cmr/m/n/12 (4):353--362, 2010.  doi: 10.1111/j.1469-1795.2009.00328.x.  UR
+L
+ []
+
+
+Overfull \hbox (140.16032pt too wide) in paragraph at lines 62--69
 \OT1/cmtt/m/n/12 https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.111
 1/j.1469-1795.2009.00328.x\OT1/cmr/m/n/12 . 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--106
-[]\OT1/cmr/m/n/12 Jussi Lehto-nen, Samir Okasha, and Heikki Helanter^^?a.  Fift
-y years of the
+Underfull \hbox (badness 7522) in paragraph at lines 78--86
+[]\OT1/cmr/m/n/12 John M. Fryx-ell, Craig Packer, Kevin Mc-Cann, Er-ling J. Sol
+-berg,
  []
 
 
-Underfull \hbox (badness 8038) in paragraph at lines 99--106
-\OT1/cmr/m/n/12 price equa-tion.  \OT1/cmr/m/it/12 Philo-soph-i-cal Trans-ac-ti
-ons of the Royal So-ci-ety B: Bi-o-log-i-
+Underfull \hbox (badness 3735) in paragraph at lines 78--86
+\OT1/cmr/m/n/12 and Bernt-Erik S^^Zther.  Re-source man-age-ment cy-cles and th
+e sus-
  []
 
 
-Underfull \hbox (badness 6332) in paragraph at lines 99--106
-\OT1/cmr/m/it/12 cal Sci-ences\OT1/cmr/m/n/12 , 375(1797):20190350, 2020.  doi:
- 10.1098/rstb.2019.0350.  URL
+Underfull \hbox (badness 3417) in paragraph at lines 78--86
+\OT1/cmr/m/n/12 tain-abil-ity of har-vested wildlife pop-u-la-tions.  \OT1/cmr/
+m/it/12 Sci-ence\OT1/cmr/m/n/12 , 328(5980):903--
  []
 
 
-Underfull \hbox (badness 2970) in paragraph at lines 109--119
-[]\OT1/cmr/m/n/12 Caroline C. Ng'weno, Steven W. Buskirk, Nicholas J. Geor-giad
-is, Be-nard C. Gi-
+Underfull \hbox (badness 2837) in paragraph at lines 78--86
+\OT1/cmr/m/n/12 906, 2010.  ISSN 0036-8075.  doi: 10.1126/sci-ence.1185802.  UR
+L
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 109--119
-\OT1/cmr/m/n/12 tuku, Al-fred K. Ki-bungei, Lau-ren M. Poren-sky, Daniel I. Rub
-en-stein, and Ja-
+Underfull \hbox (badness 1436) in paragraph at lines 88--96
+[]\OT1/cmr/m/n/12 Miha Kro-fel and Kle-men Je-rina.  Mind the cat: Con-ser-va-t
+ion man-age-
  []
 
 
-Underfull \hbox (badness 3209) in paragraph at lines 109--119
-\OT1/cmr/m/n/12 cob R. Go-heen.  Ap-par-ent com-pe-ti-tion, lion pre-da-tion, a
-nd man-aged live-stock
+Underfull \hbox (badness 3281) in paragraph at lines 88--96
+\OT1/cmr/m/n/12 ment of a pro-tected dom-i-nant scav-enger in-di-rectly af-fect
+s an en-dan-
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 109--119
-\OT1/cmr/m/n/12 graz-ing: Can con-ser-va-tion value be en-hanced?  \OT1/cmr/m/i
-t/12 Fron-tiers in Ecol-ogy and Evo-
+Underfull \hbox (badness 5563) in paragraph at lines 88--96
+\OT1/cmr/m/n/12 0006-3207.  doi: https://doi.org/10.1016/j.biocon.2016.02.019. 
+ URL
  []
 
 
-Underfull \hbox (badness 3826) in paragraph at lines 109--119
-\OT1/cmr/m/it/12 lu-tion\OT1/cmr/m/n/12 , 7:123, 2019.  ISSN 2296-701X.  doi: 1
-0.3389/fevo.2019.00123.  URL
+Overfull \hbox (4.31026pt too wide) in paragraph at lines 88--96
+\OT1/cmtt/m/n/12 http://www.sciencedirect.com/science/article/pii/S000632071630
+0635\OT1/cmr/m/n/12 . 
  []
 
-[18]
-Underfull \hbox (badness 4726) in paragraph at lines 130--140
-[]\OT1/cmr/m/n/12 Laure-Anne Pois-son-nier, Math-ieu Li-horeau, Tamara Gomez-Mo
-racho, Au-drey Dus-
- []
-
-
-Underfull \hbox (badness 2837) in paragraph at lines 130--140
-\OT1/cmr/m/n/12 su-tour, and Jerome Buhl.  A the-o-ret-i-cal ex-plo-ration of d
-i-etary col-lec-tive med-
+[20]
+Overfull \hbox (4.31026pt too wide) in paragraph at lines 130--140
+\OT1/cmtt/m/n/12 http://www.sciencedirect.com/science/article/pii/S002219101730
+1312\OT1/cmr/m/n/12 .
  []
 
 
-Underfull \hbox (badness 5862) in paragraph at lines 130--140
-\OT1/cmr/m/n/12 i-ca-tion in so-cial in-sects.  \OT1/cmr/m/it/12 Jour-nal of In
--sect Phys-i-ol-ogy\OT1/cmr/m/n/12 , 106:78 -- 87, 2018.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--140
-\OT1/cmr/m/n/12 ISSN 0022-1910.  doi: https://doi.org/10.1016/j.jinsphys.2017.0
-8.005.  URL
- []
-
-
-Underfull \hbox (badness 3780) in paragraph at lines 143--152
-[]\OT1/cmr/m/n/12 Roc^^S^^Po A. Pozo, Eric G. LeFlore, A. Bradley Duthie, Nils 
-Bun-nefeld, Is-abel L.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--152
-\OT1/cmr/m/n/12 Jones, Jeroen Min-der-man, O. Saro-bidy Rako-tonar-ivo, and Jer
-emy J. Cu-
- []
-
-
-Underfull \hbox (badness 2961) in paragraph at lines 143--152
-\OT1/cmr/m/n/12 sack.  A mul-ti-species as-sess-ment of wildlife im-pacts on lo
--cal com-mu-nity liveli-
- []
-
-
-Underfull \hbox (badness 2035) in paragraph at lines 143--152
-\OT1/cmr/m/n/12 hoods.  \OT1/cmr/m/it/12 Con-ser-va-tion Bi-ol-ogy\OT1/cmr/m/n/
-12 , n/a(n/a), 2020.  doi: 10.1111/cobi.13565.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--171
+Underfull \hbox (badness 5637) in paragraph at lines 164--171
 []\OT1/cmr/m/n/12 Daniel Sim-berloff.  How much in-for-ma-tion on pop-u-la-tion
  bi-ol-ogy is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--171
+Underfull \hbox (badness 4193) in paragraph at lines 164--171
 \OT1/cmr/m/n/12 needed to man-age in-tro-duced species?  \OT1/cmr/m/it/12 Con-s
 er-va-tion Bi-ol-ogy\OT1/cmr/m/n/12 , 17
  []
@@ -701,64 +712,56 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--171
  []
 
 
-Overfull \hbox (19.1421pt too wide) in paragraph at lines 164--171
+Overfull \hbox (84.5853pt too wide) in paragraph at lines 164--171
 \OT1/cmtt/m/n/12 https://conbio.onlinelibrary.wiley.com/doi/abs/10.1046/j.1523-
 1739.2003.02028.x\OT1/cmr/m/n/12 . 
  []
 
-
-Underfull \hbox (badness 3271) in paragraph at lines 174--181
-\OT1/cmr/m/n/12 MAR-SHALL.  Con-ser-va-tion strate-gies for species af-fected b
-y ap-par-ent com-pe-ti-
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 174--181
+[]\OT1/cmr/m/n/12 HEIKO U. WITTMER, ROBERT SER-ROUYA, L. MARK EL-
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 174--181
-\OT1/cmr/m/n/12 tion.  \OT1/cmr/m/it/12 Con-ser-va-tion Bi-ol-ogy\OT1/cmr/m/n/1
-2 , 27(2):254--260, 2013.  doi: 10.1111/cobi.12005.  URL
+Underfull \hbox (badness 10000) in paragraph at lines 174--181
+\OT1/cmr/m/n/12 BROCH, and AN-DREW J. MAR-SHALL.  Con-ser-va-tion strate-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--190
-[]\OT1/cmr/m/n/12 Chung-Huey Wu, Aaron J. Dodd, Cindy E. Hauser, and Michael A.
- Mc-
+Underfull \hbox (badness 10000) in paragraph at lines 174--181
+\OT1/cmr/m/n/12 gies for species af-fected by ap-par-ent com-pe-ti-tion.  \OT1/
+cmr/m/it/12 Con-ser-va-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--190
-\OT1/cmr/m/n/12 Carthy.  Re-al-lo-cat-ing bud-gets among on-go-ing and emerg-in
-g con-ser-va-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--190
-\OT1/cmr/m/n/12 projects.  \OT1/cmr/m/it/12 Con-ser-va-tion Bi-ol-ogy\OT1/cmr/m
-/n/12 , 2020.  doi: 10.1111/cobi.13585.  URL
+Underfull \hbox (badness 10000) in paragraph at lines 174--181
+\OT1/cmr/m/it/12 Bi-ol-ogy\OT1/cmr/m/n/12 , 27(2):254--260, 2013.  doi: 10.1111
+/cobi.12005.  URL
  []
 
 )
 
 Package natbib Warning: There were undefined citations.
 
-[19] (./BibliographyNotebook.aux) ) 
+[22] (./BibliographyNotebook.aux) ) 
 Here is how much of TeX's memory you used:
  3864 strings out of 493089
- 51368 string characters out of 6134842
- 129456 words of memory out of 5000000
+ 51363 string characters out of 6134842
+ 129427 words of memory out of 5000000
  7276 multiletter control sequences out of 15000+600000
  10319 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,4n,24p,1497b,235s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,4n,24p,1497b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmtt12.pfb>
-Output written on BibliographyNotebook.pdf (19 pages, 103564 bytes).
+Output written on BibliographyNotebook.pdf (22 pages, 108101 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
