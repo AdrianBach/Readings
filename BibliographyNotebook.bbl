@@ -1,4 +1,4 @@
-\begin{thebibliography}{18}
+\begin{thebibliography}{21}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -74,7 +74,7 @@ Alexander~B. Duthie.
 \newblock \emph{Scientific Reports}, 10\penalty0 (8296), 2020.
 
 \bibitem[Fryxell et~al.(2010)Fryxell, Packer, McCann, Solberg, and
-  S{\ae}ther]{Fryxell2010resource}
+  S{\ae}ther]{fryxell2010resource}
 John~M. Fryxell, Craig Packer, Kevin McCann, Erling~J. Solberg, and Bernt-Erik
   S{\ae}ther.
 \newblock Resource management cycles and the sustainability of harvested
@@ -83,6 +83,17 @@ John~M. Fryxell, Craig Packer, Kevin McCann, Erling~J. Solberg, and Bernt-Erik
 \newblock ISSN 0036-8075.
 \newblock \doi{10.1126/science.1185802}.
 \newblock URL \url{https://science.sciencemag.org/content/328/5980/903}.
+
+\bibitem[Holt(1977)]{holt1977predation}
+Robert~D. Holt.
+\newblock Predation, apparent competition, and the structure of prey
+  communities.
+\newblock \emph{Theoretical Population Biology}, 12\penalty0 (2):\penalty0 197
+  -- 229, 1977.
+\newblock ISSN 0040-5809.
+\newblock \doi{https://doi.org/10.1016/0040-5809(77)90042-9}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0040580977900429}.
 
 \bibitem[Krofel and Jerina(2016)]{KROFEL201640}
 Miha Krofel and Klemen Jerina.
@@ -116,6 +127,16 @@ Caroline~C. Ng'weno, Steven~W. Buskirk, Nicholas~J. Georgiadis, Benard~C.
 \newblock \doi{10.3389/fevo.2019.00123}.
 \newblock URL
   \url{https://www.frontiersin.org/article/10.3389/fevo.2019.00123}.
+
+\bibitem[Oliver et~al.(2009)Oliver, Luque-Larena, and
+  Lambin]{oliver2009rabbits}
+Matthew Oliver, Juan~Jos{\'e} Luque-Larena, and Xavier Lambin.
+\newblock Do rabbits eat voles? apparent competition, habitat heterogeneity and
+  large-scale coexistence under mink predation.
+\newblock \emph{Ecology Letters}, 12\penalty0 (11):\penalty0 1201--1209, 2009.
+\newblock \doi{https://doi.org/10.1111/j.1461-0248.2009.01375.x}.
+\newblock URL
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1461-0248.2009.01375.x}.
 
 \bibitem[Pannetier et~al.(2020)Pannetier, Martinez, Bunnefeld, and
   Etienne]{pannetier2020branching}
@@ -187,5 +208,12 @@ Chung-Huey Wu, Aaron~J. Dodd, Cindy~E. Hauser, and Michael~A. McCarthy.
 \newblock \doi{10.1111/cobi.13585}.
 \newblock URL
   \url{https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13585}.
+
+\bibitem[Yanai and Lercher(2020)]{yanai2020hypothesis}
+Itai Yanai and Martin Lercher.
+\newblock A hypothesis is a liability.
+\newblock \emph{Genome Biology}, 21\penalty0 (1):\penalty0 231, 2020.
+\newblock \doi{10.1186/s13059-020-02133-w}.
+\newblock URL \url{https://doi.org/10.1186/s13059-020-02133-w}.
 
 \end{thebibliography}

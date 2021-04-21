@@ -4,48 +4,46 @@ The top-level auxiliary file: BibliographyNotebook.aux
 The style file: plainnat.bst
 Database file #1: PhD-allReadings.bib.bib
 Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "Frixell2010resource"
-Warning--I didn't find a database entry for "holt1977predation"
 Warning--empty note in pannetier2020branching
-You've used 18 entries,
+You've used 21 entries,
             2773 wiz_defined-function locations,
-            751 strings with 10567 characters,
-and the built_in function-call counts, 10253 in all, are:
-= -- 922
-> -- 761
-< -- 3
-+ -- 255
-- -- 237
-* -- 986
-:= -- 1674
-add.period$ -- 94
-call.type$ -- 18
-change.case$ -- 133
-chr.to.int$ -- 18
-cite$ -- 37
-duplicate$ -- 363
-empty$ -- 668
-format.name$ -- 257
-if$ -- 2081
+            775 strings with 11277 characters,
+and the built_in function-call counts, 11670 in all, are:
+= -- 1061
+> -- 822
+< -- 5
++ -- 276
+- -- 255
+* -- 1110
+:= -- 1896
+add.period$ -- 110
+call.type$ -- 21
+change.case$ -- 148
+chr.to.int$ -- 21
+cite$ -- 43
+duplicate$ -- 424
+empty$ -- 789
+format.name$ -- 280
+if$ -- 2382
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 17
-newline$ -- 138
-num.names$ -- 72
-pop$ -- 192
+missing$ -- 20
+newline$ -- 160
+num.names$ -- 84
+pop$ -- 210
 preamble$ -- 1
-purify$ -- 115
+purify$ -- 127
 quote$ -- 0
-skip$ -- 299
+skip$ -- 343
 stack$ -- 0
-substring$ -- 306
-swap$ -- 18
+substring$ -- 375
+swap$ -- 21
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 198
+type$ -- 231
 warning$ -- 1
-while$ -- 69
+while$ -- 81
 width$ -- 0
-write$ -- 318
-(There were 4 warnings)
+write$ -- 371
+(There were 2 warnings)

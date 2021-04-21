@@ -6,11 +6,11 @@
 \usepackage{amssymb}
 \usepackage{makeidx}
 \usepackage{graphicx}
-\usepackage[]{geometry}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 \usepackage{natbib}
 \bibliographystyle{plainnat}
 \author{Adrian BACH}
-\title{Bibliography Notebook (2020)}
+\title{NewBibliography}
 \begin{document}
 
 \section*{Template}
@@ -35,7 +35,7 @@
 
 \subsubsection*{Resource Management Cycles and the Sustainability of Harvested Wildlife Populations}
 
-\textbf{Authors}: \cite{Frixell2010resource}.
+\textbf{Authors}: \cite{fryxell2010resource}.
 
 \textbf{Journal}: Science Reports.
 
@@ -68,7 +68,7 @@ SEVERAL INTERESTING REFERENCES.
 
 \newpage
 
-\subsubsection*{Title}
+\subsubsection*{A multispecies assessment of wildlife impacts on local community livelihoods}
 
 \textbf{Authors}: \cite{pozo2020multispecies}.
 
@@ -108,38 +108,6 @@ SEVERAL INTERESTING REFERENCES.
 
 \subsection*{Apparent competition}
 
-\subsubsection*{Predation, apparent competition, and the structure of prey communities}
-
-\textbf{Authors}: \cite{holt1977predation}.
-
-\textbf{Journal}: Theoretical Population Biology.
-
-\textbf{Publication}: February 1977.
-
-\textbf{Consulted}: November 2020.
-
-\textbf{Keywords}: .
-
-\textbf{Points of interest}:
-
-\paragraph{Introduction.} Two species in apparent competition = the presence of either species leads to a reduced population density at equilibrium in the other species.
-Includes direct competition (resources, niches, ... -- usually referred to as "competition" is the sense of direct inhibitory interactions arising from the sharing of resources in short supply) and indirect interaction through a shared predator or another causal link in the food web.
-Problem: these three mechanisms exhibit the same ecological pattern at equilibrium, how to infer which mechanism is at stake?
-Predator-mediated apparent competition can be seen as a natural constraint on the kind and number of preys that can coexist in a predator's diet.
-Important assumption: in the absence of predator the prey species do not compete.
-
-\paragraph{Competition or Apparent Competition?} Basic mechanism of predator mediated apparent competition: In a food-limited predator prey system with only 1 prey, predator and prey are maintained at a certain equilibrium density. If another prey is introduced, predator density increases so the primary prey suffers higher predation and stabilizes at a lower density at equilibrium. This can be misinterpreted as direct competition.
-
-\paragraph{Limits to species packing in prey communities.} Note for modelling: the preys have to show healthy dynamics in absence of the predator. "To understand what controls a species’ density, one must take care to examine the entire community in which that species is embedded.[...] For example, one may want to know whether or not a specialist is preferable to a generalist as a control agent for agricultural pests. One’s decision depends upon the characteristics of alternate prey which may be available to the predator. By manipulating the alternate prey, one may be able to greatly reduce the density of the pest." Pest control maintained by apparent competition among prey species.
-
-\paragraph{Predation and species diversity patterns.} Often stated that better environmental conditions would led to a higher species diversity (higher K or r in absence of direct competition will surely help weak populations to maintain better). This is not necessarily the case in this predation-mediated apparent competition model, as an increase in K could actually increase predation on weaker species and lead to a loss of diversity. If a better productivity increases the growth rate but not the K, other species can actually more likely to invade. But if it increases K, the primary prey will invade the population by increasing predation rate on the other preys in the predator's diet. Doubled with the fact that higher productivity could also mean lowest cost of maintain for predators, higher density, higher predation effort. Primary prey is the highest ration of growth rate over predation rate (reproduce most rapidly than it is captured). The author makes an interesting parallel with "the rich getting richer and the poor getting poorer" in times of economic prosperity. \textbf{"In the absence of interspecific competition among the prey in a predator’s diet, any environmental change increasing the density of the predator may decrease prey species diversity."} Something else to be careful about when managing a predator, or species in its diet.
-
-\paragraph{Other possible worlds.} Holt states that important assumptions in its model is the lack of spatial and temporal heterogeneity, age structure, etc... Cool because that are assumption easily testable with IBMs. I did exactly understood why, but Allee effect (growth rate decreases with density) facilitate invasion by other prey species. Important details to consider: refuges for preys (preys with refuges will always thrive eveb as secondary in the predator's diet), predator switch towards most abundant prey (allow weak/under-abundant species to survive through alleviated predation pressure -- easy to code in IBMs with encounter probability -- BUT are more sensible to apparent competition). Predator satiation seems not to change much prey community dynamics in this model.
- 
-Note for later: search for IBMs of apparent competition.
-
-\newpage
-
 \subsubsection*{Cats protecting birds: modelling the mesopredator release effect}
 
 \textbf{Authors}: \cite{courchamp1999cats}.
@@ -155,7 +123,7 @@ Note for later: search for IBMs of apparent competition.
 \textbf{Points of interest}: A deterministic model of logistic growth and trophic interaction between introduced cat, introduced rabbit, and indigenous bird species. Stability analysis shows that bird population is maintained in two scenarios (under specific conditions): cats management only and the three species persist; simultaneous control of cats and rabbits and only birds remain. Theoretical evidence of hyperpredation apparent competition mechanism. They set cats K as the number of available preys over their predation rate at time t, meaning it's a moving K value, interesting! They mention that a timing analysis could be interesting!
 LOTS OF APPARENT COMPETITION CASES REFERENCES.
 
-\textbf{Critiques}: They set cats preference towards the indigenous prey because they are less adapted and able to defend, but I think it is a string hypothesis that could potentially change their result. After 20 years of non-management, at the start of the control scheme, bird population goes very close to 0, which is highly unwanted because Allee effect or stochastic environmental change could drive the population to extinction.
+\textbf{Critiques}: They set cats preference towards the indigenous prey because they are less adapted and able to defend, but I think it is a strong hypothesis that could potentially change their result. After 20 years of non-management, at the start of the control scheme, bird population goes very close to 0, which is highly unwanted because Allee effect or stochastic environmental change could drive the population to extinction regardless of trophic interaction (unless allee effects are not possible in the equation?).
 
 \newpage
 
@@ -240,7 +208,7 @@ Two studies involving models.
 
 \textbf{Keywords}: Apparent competition, bear-lynx interaction, kleptoparasitism, bear management.
 
-\textbf{Points of interest}: As bear density increased than to human feeding sites, the frequency of bear encounter with lynx kill sites increased. Bear feed on lynx killings, while lynx usually feed on them for several days. Increased killing effort for lower time feeding on the prey is decreasing lynx population which is threatened. Need to place the feeding sites further from lynx predation range.
+\textbf{Points of interest}: As bear density increased thanks to human-maintained feeding sites, the frequency of bear encounter with lynx kill sites increased. Bear feed on lynx killings, while lynx usually feed on them for several days. Increased killing effort for lower time feeding on the prey is decreasing lynx population which is threatened. Need to place the feeding sites further from lynx predation range.
 
 \newpage
 
@@ -257,11 +225,29 @@ Two studies involving models.
 \textbf{Keywords}: Apparent competition, lion conservation, ungulate predation, density dependant growth rate, glades.
 
 \textbf{Points of interest}:
-Markers of predator-mediated apparent competition on secondary prey populations: selective killing according to Jocob's index; Allee effect (negative growth rate at low or high densities) in presence of predator and primary preys but regular growth without the predator (growth rate decreases with density); survival decreases with proximity to primary prey presence zones.
+Markers of predator-mediated apparent competition on secondary prey populations: selective killing according to Jacob's index; Allee effect (negative growth rate at low or high densities) in presence of predator and primary preys but regular growth without the predator (growth rate decreases with density); survival decreases with proximity to primary prey presence zones.
 Jacob's index: from -1 (highly avoided) to 1 (highly selected), and 0 if killing according to density.
 The primary prey's index is close to zero, so predator kill them relatively to its abundance. The secondary prey is closer to 1, so predator kill them when they find them. Even when primary preys are abundant, if a secondary prey appears, the predator will preferably kill them.
 Zebra are attracted to glades because they are nutrient-rich, so they gather there and are more susceptible to be killed. But if the glades are close to the secondary preys life zones, they are also more likely to be predated. But when the primary prey population regulates well under predation, the secondary one undertake an Allee effect that can lead to extinction.
 A better planning of glades locations regarding the secondary prey life zones is a management solution, alternative to go back to culling lions.
+
+\newpage
+
+\subsubsection*{Do rabbits eat voles? Apparent competition, habitat heterogeneity and large-scale coexistence under mink predation}
+
+\textbf{Authors}: \cite{oliver2009rabbits}.
+
+\textbf{Journal}: Ecology Letters.
+
+\textbf{Publication}: 2009.
+
+\textbf{Consulted}: April 2021.
+
+\textbf{Keywords}: Apparent competition, model selection, prey habitat connectivity, field experiment.
+
+\textbf{Points of interest}: Apparent competition system with mink preying on two species: rabbits on grass and voles on the river borders, meaning non-overlapping habitats. Check the microcosm experiment-based assumption that habitat connectivity heterogeneity can maintain a apparent competitive system (both prey persist over time) in large-scale landscape. Assess several covariates relative to habitat characterization + distance matrix between grass land (rabbits) and river banks (voles). Model selection with AICc. Estimation of the predation range of minks based on the distance matrix by log likelihood. Same experiment in a zone nearby were mink is absent to be more confident in the fact that the effect observe id linked to mink presence. When present, voles potential habitats well connected to grasslands are empty, and around 40\% are occupied when badly connected to grassland. Habitats occupancy increase with connectivity when mink is absent. Conclusion, managers should consider connectivity between the preys' pools when conserving. It is also an important aspect to consider when modelling spatially in GMSE (should the population share all the landscape or niches?).
+
+\textbf{Critique}: Interpretation of the p-value beyond acceptance or rejection of the null hypothesis (they interpret the value as the importance of the variable in the variance explained, the AICc between two models with and without the variable could tell that, or the weight of the variable in a PCA of the covariates).
 
 \newpage
 
