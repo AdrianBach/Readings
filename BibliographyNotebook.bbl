@@ -1,4 +1,4 @@
-\begin{thebibliography}{21}
+\begin{thebibliography}{23}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -95,6 +95,15 @@ Robert~D. Holt.
 \newblock URL
   \url{http://www.sciencedirect.com/science/article/pii/0040580977900429}.
 
+\bibitem[Holt et~al.(1994)Holt, Grover, and Tilman]{holt1994simple}
+Robert~D. Holt, James Grover, and David Tilman.
+\newblock Simple rules for interspecific dominance in systems with exploitative
+  and apparent competition.
+\newblock \emph{The American Naturalist}, 144\penalty0 (5):\penalty0 741--771,
+  1994.
+\newblock \doi{10.1086/285705}.
+\newblock URL \url{https://doi.org/10.1086/285705}.
+
 \bibitem[Krofel and Jerina(2016)]{KROFEL201640}
 Miha Krofel and Klemen Jerina.
 \newblock Mind the cat: Conservation management of a protected dominant
@@ -189,6 +198,19 @@ Daniel Simberloff.
 \newblock \doi{10.1046/j.1523-1739.2003.02028.x}.
 \newblock URL
   \url{https://conbio.onlinelibrary.wiley.com/doi/abs/10.1046/j.1523-1739.2003.02028.x}.
+
+\bibitem[Wam et~al.(2016)Wam, Bunnefeld, Clarke, and
+  Hofstad]{wam2016conflicting}
+Hilde~Karine Wam, Nils Bunnefeld, Nicholas Clarke, and Ole Hofstad.
+\newblock Conflicting interests of ecosystem services: Multi-criteria modelling
+  and indirect evaluation of trade-offs between monetary and non-monetary
+  measures.
+\newblock \emph{Ecosystem Services}, 22:\penalty0 280--288, 2016.
+\newblock ISSN 2212-0416.
+\newblock \doi{https://doi.org/10.1016/j.ecoser.2016.10.003}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S2212041616303886}.
+\newblock Integrated valuation of ecosystem services: challenges and solutions.
 
 \bibitem[WITTMER et~al.(2013)WITTMER, SERROUYA, ELBROCH, and
   MARSHALL]{wittmer2012conservation}
