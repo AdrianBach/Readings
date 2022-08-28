@@ -1,4 +1,4 @@
-\begin{thebibliography}{25}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -83,6 +83,17 @@ John~M. Fryxell, Craig Packer, Kevin McCann, Erling~J. Solberg, and Bernt-Erik
 \newblock ISSN 0036-8075.
 \newblock \doi{10.1126/science.1185802}.
 \newblock URL \url{https://science.sciencemag.org/content/328/5980/903}.
+
+\bibitem[Grainger et~al.(2019)Grainger, Levine, and
+  Gilbert]{grainger2019invasion}
+Tess~Nahanni Grainger, Jonathan~M. Levine, and Benjamin Gilbert.
+\newblock The invasion criterion: A common currency for ecological research.
+\newblock \emph{Trends in Ecology and Evolution}, 34\penalty0 (10):\penalty0
+  925--935, 2019.
+\newblock ISSN 0169-5347.
+\newblock \doi{https://doi.org/10.1016/j.tree.2019.05.007}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0169534719301594}.
 
 \bibitem[Hart et~al.(2018)Hart, Freckleton, and Levine]{halt2018quantify}
 Simon~P. Hart, Robert~P. Freckleton, and Jonathan~M. Levine.

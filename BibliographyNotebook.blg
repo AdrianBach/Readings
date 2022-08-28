@@ -5,45 +5,45 @@ The style file: plainnat.bst
 Database file #1: PhD-allReadings.bib.bib
 Warning--I didn't find a database entry for ""
 Warning--empty note in pannetier2020branching
-You've used 25 entries,
+You've used 26 entries,
             2773 wiz_defined-function locations,
-            811 strings with 12507 characters,
-and the built_in function-call counts, 13814 in all, are:
-= -- 1268
-> -- 942
+            818 strings with 12775 characters,
+and the built_in function-call counts, 14351 in all, are:
+= -- 1320
+> -- 972
 < -- 6
-+ -- 316
-- -- 291
-* -- 1310
-:= -- 2234
-add.period$ -- 133
-call.type$ -- 25
-change.case$ -- 172
-chr.to.int$ -- 25
-cite$ -- 51
-duplicate$ -- 507
-empty$ -- 953
-format.name$ -- 322
-if$ -- 2834
++ -- 326
+- -- 300
+* -- 1362
+:= -- 2319
+add.period$ -- 139
+call.type$ -- 26
+change.case$ -- 178
+chr.to.int$ -- 26
+cite$ -- 53
+duplicate$ -- 528
+empty$ -- 994
+format.name$ -- 332
+if$ -- 2947
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 24
-newline$ -- 191
-num.names$ -- 100
-pop$ -- 239
+missing$ -- 25
+newline$ -- 199
+num.names$ -- 104
+pop$ -- 246
 preamble$ -- 1
-purify$ -- 147
+purify$ -- 152
 quote$ -- 0
-skip$ -- 405
+skip$ -- 420
 stack$ -- 0
-substring$ -- 473
-swap$ -- 25
+substring$ -- 496
+swap$ -- 26
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 275
+type$ -- 286
 warning$ -- 1
-while$ -- 97
+while$ -- 101
 width$ -- 0
-write$ -- 445
+write$ -- 464
 (There were 2 warnings)
